@@ -16,7 +16,7 @@ float a,b;
 ---
 #### Salida
 ```
-Si /a==b) son iguales
+Si (BE_a==BE_b) son iguales
 Si (a>b) a es el mayor
 ```
 
