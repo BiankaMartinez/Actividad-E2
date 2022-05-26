@@ -15,7 +15,7 @@ Para poder comprobar si un número es mayor que otro tenemos que utilizar el sig
 y para poder comprobar si los dos números son iguales tenemos que utilizar este símbolo que es de dos iguales "=="
 
 float BE_a,BE_b;
-
+---
 #### Salida
 ```
 if(BE_a==BE_b) 
