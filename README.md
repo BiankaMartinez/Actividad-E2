@@ -14,7 +14,7 @@ En este programa de c++ nos permite comparar dos números y poder determinar si 
 Para poder comprobar si un número es mayor que otro tenemos que utilizar el siguiente símbolo ">"
 y para poder comprobar si los dos números son iguales tenemos que utilizar este símbolo que es de dos iguales "=="
 float BE_a,BE_b;
----
+
 #### Salida
 ```
 if(BE_a==BE_b) 
